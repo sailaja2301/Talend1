@@ -12,6 +12,7 @@
     <module>code/routines</module>
     <module>code/beans</module>
     <module>jobs/process/demo/onboardingdemojob_0.1</module>
+    <module>jobs/process/sample_0.1</module>
   </modules>
   <properties>
     <talend.project.name>PUBLIC_PROJECT</talend.project.name>
